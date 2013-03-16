@@ -1,0 +1,21 @@
+/*
+Theme Name: mw
+Theme URI: http://wordpress.org/
+Description: theme for Murroes and Wellbank.
+Author: Gavin Reid
+Version: 1.0
+Tags: 
+
+*/
+
+
+.site-header{
+  background-color: #DDDDFF;
+  background-image: url("http://www.angus.gov.uk/images/headernew.jpg");
+  background-position: top center;
+  background-repeat: no-repeat;
+  color: #000000;
+  height: auto !important;
+  min-height: 93px;
+  width: 100%;
+}
